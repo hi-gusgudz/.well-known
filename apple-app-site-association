@@ -18,7 +18,7 @@
         ],
         "components": [
           {
-            "/": "/mts/v/*"
+            "/": "/mts/v/test/*"
           }
         ]
       },
@@ -38,7 +38,7 @@
         ],
         "components": [
           {
-            "/": "/mts/pro/*"
+            "/": "/mts/pro/test/*"
           }
         ]
       }

@@ -3,9 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "4D447S9D9D.com.hanasec.pro",
-        "paths": [
-          "/universalTest/*"
+        "appIDs": [
+          "4D447S9D9D.com.hanasec.pro",
+          "4D447S9D9D.com.hanasec.pro.fulllog"
+        ],
+        "components": [
+          {
+            "/": "*"
+          }
         ]
       }
     ]

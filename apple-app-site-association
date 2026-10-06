@@ -5,7 +5,9 @@
       {
         "appIDs": [
           "4D447S9D9D.com.hanasec.pro",
-          "4D447S9D9D.com.hanasec.pro.fulllog"
+          "4D447S9D9D.com.hanasec.pro.fulllog",
+          "4D447S9D9D.com.hanasec.stock",
+          "4D447S9D9D.com.hanasec.stock.dev"
         ],
         "components": [
           {

@@ -1,47 +1,59 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appIDs": [
-          "4D447S9D9D.com.hanasec.pro"
-        ],
-        "components": [
-          {
-            "/": "/mts/v/*"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "4D447S9D9D.com.hanasec.pro.fulllog"
-        ],
-        "components": [
-          {
-            "/": "/mts/v/test/*"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "4D447S9D9D.com.hanasec.stock"
-        ],
-        "components": [
-          {
-            "/": "/mts/pro/*"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "4D447S9D9D.com.hanasec.stock.dev"
-        ],
-        "components": [
-          {
-            "/": "/mts/pro/test/*"
-          }
-        ]
-      }
-    ]
-  }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "4D447S9D9D.com.hanasec.pro"
+        ],
+        "components": [
+          {
+            "/": "/mts/v"
+          },
+          {
+            "/": "/mts/v/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "4D447S9D9D.com.hanasec.pro.fulllog"
+        ],
+        "components": [
+          {
+            "/": "/mts/v/test"
+          },
+          {
+            "/": "/mts/v/test/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "4D447S9D9D.com.hanasec.stock"
+        ],
+        "components": [
+          {
+            "/": "/mts/pro"
+          },
+          {
+            "/": "/mts/pro/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "4D447S9D9D.com.hanasec.stock.fulllog"
+        ],
+        "components": [
+          {
+            "/": "/mts/pro/test"
+          },
+          {
+            "/": "/mts/pro/test/*"
+          }
+        ]
+      }
+    ]
+  }
 }

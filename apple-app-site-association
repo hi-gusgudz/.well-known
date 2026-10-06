@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4D447S9D9D.com.hanasec.pro",
+        "paths": [
+          "/universalTest/*"
+        ]
+      }
+    ]
+  }
+}

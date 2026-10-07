@@ -4,21 +4,21 @@
     "details": [
       {
         "appIDs": [
-          "4D447S9D9D.com.hanasec.pro.fulllog"
+          "4D447S9D9D.com.hanasec.stock.dev"
         ],
         "components": [
           {
-            "/": "/v/*"
+            "/": "/mts/pro/*"
           }
         ]
       },
       {
         "appIDs": [
-          "4D447S9D9D.com.hanasec.stock.dev"
+          "4D447S9D9D.com.hanasec.pro.fulllog"
         ],
         "components": [
           {
-            "/": "/pro/*"
+            "/": "/mts/v/*"
           }
         ]
       }

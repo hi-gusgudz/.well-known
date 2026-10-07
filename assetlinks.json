@@ -1,0 +1,38 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hanasec.pro",
+      "sha256_cert_fingerprints":
+      ["F6:DC:F2:4B:E4:03:58:E1:36:6A:F8:21:8C:F2:0B:21:D6:31:DF:3B:7B:3A:DB:B5:72:0E:04:9B:79:71:41:DF"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hanasec.pro.fulllog",
+      "sha256_cert_fingerprints":
+      ["F6:DC:F2:4B:E4:03:58:E1:36:6A:F8:21:8C:F2:0B:21:D6:31:DF:3B:7B:3A:DB:B5:72:0E:04:9B:79:71:41:DF"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hanasec.stock",
+      "sha256_cert_fingerprints":
+      ["F6:DC:F2:4B:E4:03:58:E1:36:6A:F8:21:8C:F2:0B:21:D6:31:DF:3B:7B:3A:DB:B5:72:0E:04:9B:79:71:41:DF"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hanasec.stock.fulllog",
+      "sha256_cert_fingerprints":
+      ["F6:DC:F2:4B:E4:03:58:E1:36:6A:F8:21:8C:F2:0B:21:D6:31:DF:3B:7B:3A:DB:B5:72:0E:04:9B:79:71:41:DF"]
+    }
+  }
+]
